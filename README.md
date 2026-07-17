@@ -5,7 +5,7 @@
 ---
 
 ### Amazon Product Review Analysis
-![Amazon Product Review Analysis]()
+![Amazon Product Review Analysis](https://github.com/parthadata7/Amazon-Customer-Review-Analytics-Dashboard/blob/main/screenshots/dashboard.PNG)
 
 ---
 
@@ -117,7 +117,7 @@ This project analyzes 30,839 customer reviews for a single Amazon product sold b
 
 ###positive vs. negative vs. neutral reviews
 
-![positive vs. negative vs. neutral reviews](3a)
+![positive vs. negative vs. neutral reviews](https://github.com/parthadata7/Amazon-Customer-Review-Analytics-Dashboard/blob/main/screenshots/charts/3a.png)
 
 ### Insights
 
@@ -128,7 +128,7 @@ This project analyzes 30,839 customer reviews for a single Amazon product sold b
 
 ###Rating Distribution
 
-![Rating Distribution](3b)
+![Rating Distribution](https://github.com/parthadata7/Amazon-Customer-Review-Analytics-Dashboard/blob/main/screenshots/charts/3b.png)
 
 ### Insights
 
@@ -138,7 +138,7 @@ This project analyzes 30,839 customer reviews for a single Amazon product sold b
 
 ###Word Cloud : Positive vs Negative
 
-![Word Cloud](3c)
+![Word Cloud](https://github.com/parthadata7/Amazon-Customer-Review-Analytics-Dashboard/blob/main/screenshots/charts/3c.png)
 
 ### Insights
 
@@ -150,7 +150,7 @@ This project analyzes 30,839 customer reviews for a single Amazon product sold b
 
 ###Complaint Categories
 
-![Complaint Categories](4a)
+![Complaint Categories](https://github.com/parthadata7/Amazon-Customer-Review-Analytics-Dashboard/blob/main/screenshots/charts/4a.png)
 
 ### Insights
 
