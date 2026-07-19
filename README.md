@@ -217,7 +217,7 @@ This project demonstrates how data analytics can transform customer review data 
 
 **Email:** [parthadataanalyst@gmail.com](mailto:parthadataanalyst@gmail.com)
 
-**LinkedIn:** []()
+**LinkedIn:** [LinkedIn](linkedin.com/in/partha-pratim-das-01a579423) 
 
 **Portfolio:** []()
 
